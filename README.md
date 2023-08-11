@@ -4,7 +4,7 @@
 
 Olá! 👋 Sou **CJ**, um apreciador de café e estudante na área de _Desenvolvimento de Sistema_
 
-##Sobre Mim
+## Sobre Mim
 - ✨ Designer e UX, Acredito que a estética seja melhor aproveitada quando feito de _forma inteligente_ e utilizando de técnicas _psicológicas_.
 - 🗺 Desenvolvedor _Back-end_, Sigo me desenvolvendo na área, já tive a oportunidade de trabalhar em grandes porjetos! Houve um registro de aumento de _35% de crescimento_ após meu envolvimento.
 - 🪐 Novas tecnologias, sempre aprendendo e explorando novas tecnologia e melhores práticas para seguir desempenhando um bom papel no desenvolvimento.
